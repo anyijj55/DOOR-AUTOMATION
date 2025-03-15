@@ -13,4 +13,4 @@ Contains up and down limit switches.
 
 Contains OPEN, CLOSE (SHUT), and AJAR indicator lights. 
 
-The NC switch placed between OPEN and STOP switch, together with the NC switch placed between the CLOSE and STOP switch prevent short circuiting the motor switching contactors if they are switched to run the same time (see Door automation motor short circuit problem PNG file). 
+2 NC switches can be introduced between OPEN and UP MOTOR and also between CLOSE and DOWN motor in order to prevent short circuiting the motor switching contactors if they are switched to run the same time (see Door automation motor short circuit problem PNG file). 
